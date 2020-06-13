@@ -1,0 +1,14 @@
+\.bazel/
+bazel-out
+_Bin
+_BinIntermediates
+_Tmp
+Src/compile_commands
+
+*.sln
+*.vcxproj
+*.filters
+
+*.tlog
+*.obj
+*.log
