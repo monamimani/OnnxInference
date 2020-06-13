@@ -1,1 +1,1 @@
-TemplatePremake5Project
+OnnxInference
